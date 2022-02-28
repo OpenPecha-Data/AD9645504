@@ -1,0 +1,31 @@
+segment_sources:
+  P06864081:
+    type: origin_type
+    relation: translation
+    language: en
+  PED7037E7:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  de061920cfc944cb86aba78f6c9d6eba:
+    P06864081: ee31a563b785436899ab5a638230154c
+    PED7037E7: e7aa8141806d404093ef606d4d57b303
+  eca511c37b824731b77fae5f1b01f2f7:
+    P06864081: e5d736b5f8b148c2b010c0e9929fb567
+    PED7037E7: b7bb6d6b68af42ed9530f0b21b46cd54
+  e2bbbfbd383041e8a1e07481500014ec:
+    P06864081: 5cda10cd4dc1487eb89f86a9dfec5a0a
+    PED7037E7: ceb99b30b2ca4a27b881e5e45a6f19ba
+  253013ea050f46ba9c8833a22841d5e1:
+    P06864081: 38f2bc921d2a4db2b872ddfe50e65476
+    PED7037E7: 9225be80a2f44cabaa5c7f84e840cd55
+  c355dc85491546f5aec2e451f7f08b00:
+    P06864081: 1571c3c935af4f329876919e3a02e1b5
+    PED7037E7: b8a21d3dca2d4a9fbf7df65a4052a1dc
+  bbb78c93a97146c5a88ebffab3b90d04:
+    P06864081: 7a1ffef1fc3e480bb682fef8eb39b131
+    PED7037E7: 92fafe97b2364878966efe49506425d6
+  e0456e7f2220410d8bf91ecbb637b468:
+    P06864081: 2e7d746b30db409281da2123b82cc553
+    PED7037E7: 34c3a201508b4370ad20f7178a4d3eb5
